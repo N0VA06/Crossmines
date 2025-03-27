@@ -1,7 +1,7 @@
-# 💣 BombSweeper Game
+# 💣 Crossmines Game
 
 ## 🎮 Game Overview
-BombSweeper is an interactive mine-sweeping puzzle game where your goal is to reveal all safe cells without detonating any bombs.
+Crossmines is an interactive mine-sweeping puzzle game where your goal is to reveal all safe cells without detonating any bombs.
 
 ## 🕹️ How to Play
 
@@ -48,4 +48,4 @@ BombSweeper is an interactive mine-sweeping puzzle game where your goal is to re
 - Persistent leaderboard
 - Streak tracking
 
-Enjoy the challenge of BombSweeper! 🚩💥
+Enjoy the challenge of Crossmines! 🚩💥
